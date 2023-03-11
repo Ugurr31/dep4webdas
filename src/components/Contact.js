@@ -26,7 +26,6 @@ export default function Contact() {
                         <h2 className='font-semibold text-zinc-200 truncate'> Github </h2>
                         <p className='text-zinc-400 line-clamp-2'> You can follow me on GitHub. </p>
                     </div>
-        <div className='grid gap-4 md:grid-cols-2'>
             <div className='area'>
                 <a href='https://www.youtube.com/channel/UC2-GCDyqmoR69bygJGV54Cw' target="_blank" rel='noreferrer noopener' className='rounded-md focusRing overflow-x-hidden cursor-pointer p-4 transition duration-200 bg-zinc-950 hover:bg-zinc-950/70 items-center justify-between flex space-x-2'>
                     <div className='line-clamp-2'>
